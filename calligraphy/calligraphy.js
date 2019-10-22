@@ -1,0 +1,111 @@
+var calligraphy = [
+    {
+        id:10001,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+    
+},
+    {
+        id:10002,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizaontal:false,
+    
+},
+    {
+        id:10003,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:10004,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:true,
+},
+    {
+        id:10005,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:10006,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:10007,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:10008,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:10009,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    
+         
+         ]
+//step1:build data model
+//step2:design html
+//step3:design a sigle card
+//step4:iterate/loop the data and make one card for each object
+//step4a:create the pop
+//step5:polish

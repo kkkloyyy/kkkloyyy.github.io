@@ -1,0 +1,73 @@
+var painting = [
+    {
+        id:20001,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"https:picsum.photos/200/1500",
+        horizontal:false,
+    
+},
+    {
+        id:20002,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"http:picsum.photos/600/300",
+        horizaontal:false,
+    
+},
+    {
+        id:20003,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:20004,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:true,
+},
+    {
+        id:20005,
+        type:"",
+        style:"",
+        title:"",
+        titleCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+    {
+        id:20006,
+        type:"",
+        style:"",
+        title:"",
+        titileCN:"",
+        text:"",
+        textCN:"",
+        img:"",
+        horizontal:false,
+},
+   
+    
+         
+         ]
