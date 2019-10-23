@@ -7,7 +7,7 @@
     padding-top: var(--jumbotron-padding-y);
     padding-bottom: var(--jumbotron-padding-y);
     margin-bottom: 0;
-    background: rgb(187, 160, 187);
+    background-color:blue;
     background-size: cover;
     height: 100%;
     overflow: hidden;

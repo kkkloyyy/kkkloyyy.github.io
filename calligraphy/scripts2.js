@@ -48,7 +48,7 @@ for (i=0; i<painting.length;i++)
 //                <small class="text-muted">9 mins</small>
 //              </div>
 //            </div>
-        var renderCard = '<div class="col-md-4"><div class="card mb-4 shadow-sm">'+renderThumbImg+'<div class="card-body">'+renderType + renderStyle + renderTitle+renderTexts+'<div class="d-flex justify-content-between align-items-center"><div class="btn-group"><button type="button" class="btn btn-sm btn-outline-secondary">'+renderLink+'</button></div><small class="text-muted">  </small></div></div></div>'
+        var renderCard = '<div class="col-md-4"><div class="card mb-4 shadow-sm">'+renderThumbImg+'<div class="card-body">'+renderType + renderStyle + renderTitle+renderTexts+'<div class="d-flex justify-content-between align-items-center"><div class="btn-group"><button type="button" class="btn btn-sm btn-outline-secondary" id="button1>'+renderLink+'</button></div><small class="text-muted">  </small></div></div></div>'
     
         painting1.append(renderCard)
 
